@@ -1,4 +1,4 @@
-using Revise
+# using Revise
 using Smartrek
 
 # In[0] XOR ((NOT In[1]) AND (In[2] XNOR In[3]))
