@@ -1,0 +1,4 @@
+name = "Smartrek"
+uuid = "df57f32d-b5b0-4bf1-977d-ddc25431c5ef"
+authors = ["jeremiedb <jeremie_db@hotmail.com>"]
+version = "0.1.0"
